@@ -4,5 +4,4 @@ A Q-learning agent that can transfer in between orbits!
 
 
 
-https://user-images.githubusercontent.com/57343372/135973248-a9400e93-1c8d-4d12-9bcc-8843b633747c.mp4
-
+![ezgif-4-aa06b4636bf0](https://user-images.githubusercontent.com/57343372/135973341-5e8cb55e-1eb1-4cd4-8a3d-b4208072a7de.gif)
