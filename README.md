@@ -1,5 +1,5 @@
 # OrbitShuttler
-A Q-learning agent that can transfer in between orbits! 
+A Q-learning agent that leanrs to transfer in between orbits! 
 
 
 
